@@ -78,4 +78,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Additional research papers and resources are listed in the `docs/` directory.
 ```
 
-This markdown-formatted README provides a structured layout suitable for a GitHub repository.
+
