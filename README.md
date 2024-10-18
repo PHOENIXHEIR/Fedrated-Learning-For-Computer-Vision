@@ -1,6 +1,3 @@
-Here’s the README formatted for `README.md`:
-
-```markdown
 # Federated Learning for Computer Vision
 
 This repository, maintained by [PHOENIXHEIR](https://github.com/PHOENIXHEIR), provides a comprehensive overview and implementation of Federated Learning (FL) techniques applied to various Computer Vision (CV) tasks. The goal is to facilitate privacy-preserving model training across decentralized devices while addressing challenges such as data heterogeneity, communication efficiency, and security.
